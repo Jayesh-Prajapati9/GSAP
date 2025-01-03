@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GSAP (GreenSock Animation Platform) Learning Repository
 
 This repository contains comprehensive examples and tutorials covering various aspects of GSAP animation library.
@@ -31,3 +32,6 @@ This project is for educational purposes. Please refer to GSAP's licensing terms
 ## Contributing
 
 Feel free to contribute by submitting pull requests or creating issues for discussions.
+=======
+# This Repo contain the various topic regarding to the GSAP
+>>>>>>> 84ed5536bb10845ae6706537a975693450067f85
