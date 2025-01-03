@@ -1,1 +1,1 @@
-# This Repo which contains all the content regarding to the GSAP
+# This Repo contain the various topic regarding to the GSAP
