@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # GSAP (GreenSock Animation Platform) Learning Repository
 
 This repository contains comprehensive examples and tutorials covering various aspects of GSAP animation library.
