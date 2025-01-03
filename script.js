@@ -42,4 +42,3 @@ gsap.from('h1',{
 //     duration: 1,
 //     delay: 1,
 // }); 
-
