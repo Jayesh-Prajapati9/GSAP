@@ -31,5 +31,8 @@ This project is for educational purposes. Please refer to GSAP's licensing terms
 ## Contributing
 
 Feel free to contribute by submitting pull requests or creating issues for discussions.
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 3c00e37938b92fb54d69d8c3dbbf342005a2a6b0
