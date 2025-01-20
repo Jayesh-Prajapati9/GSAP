@@ -37,6 +37,7 @@ gsap.from(".page2 .box", {
 
         // end: "bottom 50%", // THIS WILL END THE ANIMATION WHEN THE BOTTOM OF THE ELEMENT REACHES THE 50% OF THE VIEWPORT
         scrub: 1, // THIS WILL MAKE THE ANIMATION SMOOTH
+        pin: true // pin the trigger element while active
     }
 
 })
